@@ -1,2 +1,1 @@
-# PrepCourse
-Repositorio de prueba del prep course
+Proyecto de prueba
